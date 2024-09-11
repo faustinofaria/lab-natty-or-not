@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Busca News
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Agentes que filtram as principais notícias de tecnologia do dia.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+AgentGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+No site https://agentgpt.reworkd.ai/pt basta criar um agente, especificando o trabalho dele. Ex: filtre todos as 5 notícias de tecnologia mais acessadas hoje no Brasil.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Você pode apresentar essas notícias como um texto, ou enviar um e-mail.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+É extremamente simples.
 ```
 
 ### Exemplos e Insigths
